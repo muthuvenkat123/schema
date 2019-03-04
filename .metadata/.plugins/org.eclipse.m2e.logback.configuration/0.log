@@ -1,0 +1,59 @@
+2014-07-15 18:42:49,359 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Venkat\dev\mongoapp\pom.xml
+2014-07-15 18:42:51,789 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:42:53,394 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:42:53,408 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mongoapp/src/main/java
+2014-07-15 18:42:53,414 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mongoapp/src/test/java
+2014-07-15 18:42:53,648 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2014-07-15 18:42:56,137 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:42:56,215 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:42:56,216 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:42:56,218 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:42:56,218 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:43:19,844 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Venkat\dev\mongoapp
+2014-07-15 18:43:19,845 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\dev\m2\settings.xml clean
+2014-07-15 18:43:23,160 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:43:23,161 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:43:23,163 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:43:23,163 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:43:35,634 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Venkat\dev\mongoapp
+2014-07-15 18:43:35,635 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\dev\m2\settings.xml install
+2014-07-15 18:43:45,320 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:43:45,321 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:43:45,325 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:43:45,326 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:47:47,323 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:47:48,998 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mongod/mongo-java-driver/2.9.0/mongo-java-driver-2.9.0.pom
+2014-07-15 18:47:49,006 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mongod:mongo-java-driver:jar:2.9.0 is missing, no dependency information available
+2014-07-15 18:47:49,207 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mongod/mongo-java-driver/2.9.0/mongo-java-driver-2.9.0.jar
+2014-07-15 18:47:49,366 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:47:49,367 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:47:49,369 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:47:49,369 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:47:53,958 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mongod:mongo-java-driver:jar:2.9.0 is missing, no dependency information available
+2014-07-15 18:48:07,481 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.mongod:mongo-java-driver:jar:2.9.0 is missing, no dependency information available
+2014-07-15 18:48:50,423 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Venkat\dev\mongoapp
+2014-07-15 18:48:50,423 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\dev\m2\settings.xml clean
+2014-07-15 18:48:52,861 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:48:52,861 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:48:52,864 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:48:52,864 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:49:07,556 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Venkat\dev\mongoapp
+2014-07-15 18:49:07,556 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\dev\m2\settings.xml install
+2014-07-15 18:49:44,567 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:49:44,657 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:49:44,658 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:49:44,660 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:49:44,660 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:49:45,942 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:49:45,942 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:49:45,944 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:49:45,944 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:51:40,268 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:51:40,269 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:51:40,271 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:51:40,272 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
+2014-07-15 18:54:35,738 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cigna.mongo:mongoapp:0.0.1-SNAPSHOT @ C:\Users\Venkat\dev\mongoapp\pom.xml.
+2014-07-15 18:54:35,814 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:54:35,815 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\main\resources
+2014-07-15 18:54:35,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-07-15 18:54:35,817 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Venkat\dev\mongoapp\src\test\resources
